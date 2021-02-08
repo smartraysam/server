@@ -1,0 +1,6 @@
+{
+    "port": "COM8",
+    "board": "MegaCore:avr:2560",
+    "configuration": "bootloader=uart0,pinout=mega_pinout,BOD=2v7,LTO=Os_flto,clock=16MHz_external",
+    "sketch": "server.ino"
+}
